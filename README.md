@@ -1,48 +1,38 @@
-<title>Dreamy - A Ginger Ninja! template</title>
-<div id="header">
-	<h1>Dreamy</h1>
-</div>
+<html>
+<head>
+<meta charset="utf-8">
+<title>TCMG 303 - Roberto Perez Lab 5 Website</title>
+</head>
 
-<div id="menu">
-	<ul>
-		<li><a href="#">Link One</a></li>
-		<li><a href="#">Link Two</a></li>
-		<li><a href="#">Link Three</a></li>
-		<li><a href="#">Link Four</a></li>
-		<li><a href="#">Link Five</a></li>
-	</ul>
-</div>
-
-<div id="sidebar">
-	<div id="feed">
-		<a class="feed-button" href="#">&nbsp;</a>
-	</div>
-	<ul>
-		<li><a href="#">Link One</a></li>
-		<li><a href="#">Link Two</a></li>
-		<li><a href="#">Link Three</a></li>
-		<li><a href="#">Link Four</a></li>
-		<li><a href="#">Link Five</a></li>
-	</ul>
-	<div id="sidebar-bottom">
-		&nbsp;
-	</div>
-</div>
-
-<div id="content">
-	<div id="ad-top">
-		<!-- Insert 468x60 banner advertisement -->
-	</div>
-	<div class="entry">
-		<div class="entry-title"><a href="#">Lorem Ipsum</a></div>
-		<div class="date">Posted on 30 November 2006</div>
-		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p> <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-		<div class="comments"><a href="#">3 comments</a></div>
-	</div>
-</div>
-
-<div id="footer">
-	<div id="footer-valid">
-		<a href="http://validator.w3.org/check/referer">xhtml</a> / <a href="http://www.ginger-ninja.net/">ginger ninja!</a>
-	</div>
-</div>
+<body style="background-image: url('gator.jpg');">
+<table style='font-family:"Verdana"' width="200" border="0" align="center">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td><img src="techmanage.png" width="611" height="206" alt=""/></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><img src="mydog.jpg" width="223" height="300" alt=""/></td>
+		<td align="center"><font size="+4" color="#800000"><p>Howdy!</p></font>
+			<font size="+3" color="blue">
+			<p>Welcome to my TCMG 303 website</p></font>
+			<font size="+2" color="purple"><p>My name is Roberto Perez Escobar</p></font>
+			<font size="+1" color="brown"><p>Thanks for stopping by.</p></font></td>
+      <td><img src="android.jpg" width="275" height="300" alt=""/>
+		<p>Android is my passion! </p> </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+	  <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
